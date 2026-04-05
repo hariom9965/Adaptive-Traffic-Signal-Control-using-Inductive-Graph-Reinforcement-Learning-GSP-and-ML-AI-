@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-02-26 20:08:54 by Eclipse SUMO netedit Version 1.24.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0"  begin="0.00" from="Node5_11_WB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_1"  begin="0.00" from="Node5_11_WB" to="Node7_8_EB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_10" begin="0.00" from="Node7_8_WB"  to="Node6_9_NB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_11" begin="0.00" from="Node7_8_WB"  to="Node5_11_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_12" begin="0.00" from="Node7_8_WB"  to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_14" begin="0.00" from="Node7_8_WB"  to="Node13_4_SB"  via="Node1_6_SB Node3_1_SB" end="10000.00" vehsPerHour="100"/>
+    <flow id="f_16" begin="0.00" from="Node6_9_SB"  to="Node0_10_NB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_17" begin="0.00" from="Node6_9_SB"  to="Node2_12_EB"  via="Node2_7_SB" end="10000.00" vehsPerHour="100"/>
+    <flow id="f_18" begin="0.00" from="Node6_9_SB"  to="Node5_11_EB"  via="Node5_2_SB" end="10000.00" vehsPerHour="100"/>
+    <flow id="f_19" begin="0.00" from="Node6_9_SB"  to="Node13_4_SB"  via="Node3_1_SB" end="10000.00" vehsPerHour="100"/>
+    <flow id="f_2"  begin="0.00" from="Node5_11_WB" to="Node13_4_SB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_21" begin="0.00" from="Node0_10_SB" to="Node7_8_EB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_24" begin="0.00" from="Node0_10_SB" to="Node13_4_SB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_25" begin="0.00" from="Node13_4_NB" to="Node5_11_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_26" begin="0.00" from="Node13_4_NB" to="Node0_10_NB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_27" begin="0.00" from="Node13_4_NB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_30" begin="0.00" from="Node5_19_NB" to="Node5_11_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_31" begin="0.00" from="Node5_19_NB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_32" begin="0.00" from="Node5_19_NB" to="Node0_16_WB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_33" begin="0.00" from="Node3_18_NB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_35" begin="0.00" from="Node4_17_EB" to="Node7_14_NB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_37" begin="0.00" from="Node0_16_EB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_38" begin="0.00" from="Node0_16_EB" to="Node5_11_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_39" begin="0.00" from="Node6_15_EB" to="Node6_9_NB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_40" begin="0.00" from="Node6_15_EB" to="Node7_14_NB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_41" begin="0.00" from="Node6_15_EB" to="Node3_18_SB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_42" begin="0.00" from="Node7_14_SB" to="Node2_12_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_43" begin="0.00" from="Node7_14_SB" to="Node3_18_SB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_44" begin="0.00" from="Node7_14_SB" to="Node0_16_WB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_5"  begin="0.00" from="Node2_12_WB" to="Node5_11_EB"  end="10000.00" vehsPerHour="100"/>
+    <flow id="f_6"  begin="0.00" from="Node2_12_WB" to="Node7_8_EB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_7"  begin="0.00" from="Node2_12_WB" to="Node6_9_NB"   end="10000.00" vehsPerHour="100"/>
+    <flow id="f_8"  begin="0.00" from="Node2_12_WB" to="Node0_10_NB"  end="10000.00" vehsPerHour="100"/>
+</routes>
